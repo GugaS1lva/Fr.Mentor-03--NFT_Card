@@ -59,4 +59,5 @@ const functionLol = () => {
 - GitHub - [@GugaS1lva](https://github.com/GugaS1lva)
 - Frontend Mentor - [@GugaS1lva](https://www.frontendmentor.io/profile/GugaS1lva)
 - Instagram - [@60repolhoscozidos](https://www.instagram.com/50repolhoscozidos/)
+- LinkedIn - [@GustavoSilva](https://www.linkedin.com/in/guga-silva-124706233/)
 
