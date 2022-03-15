@@ -1,0 +1,89 @@
+/* 
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Outfit', sans-serif; */
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    padding: 10px;
+    max-width: 375px;
+    font-size: 0.9em;
+    margin: 100px auto;
+    
+}
+main{
+    background-color: hsl(216, 50%, 16%);
+    padding: 25px;
+    border-radius: 15px;
+}
+p{
+    font-size: 18px;
+}
+footer{
+    margin-top: 100px;
+    margin-bottom: -100px;
+    font-size: 11px;
+    text-align: center;
+}
+footer a{
+    color: hsl(178, 100%, 50%);
+}
+footer a:hover{
+    color: hsl(228, 45%, 44%);
+}
+
+
+.image-equilibrium{
+    border-radius: 10px;
+    width: 100%;
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+}
+
+.container-informations-product{
+    display: flex;
+    justify-content: space-between;
+}
+.nft-code{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+}
+.nft-code-text{
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+.nft-time{
+    color: hsl(215, 51%, 70%);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.container-footer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.container-footer img{
+    width: 10%;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+.container-footer span{
+    color: white;
+}
+
+
+h1:hover, span:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
